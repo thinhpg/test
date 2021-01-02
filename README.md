@@ -2,4 +2,4 @@
 trying to figure out wth is github
 Hi Humans
 Your Navigator here
-![alt](destop_background%20(2).jpg)
+![alt](https://growupcareer.files.wordpress.com/2020/04/software-architecture-patterns.png)
